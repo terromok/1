@@ -1,0 +1,37 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+form {
+  margin-left: 10%;
+  margin-top: 10%;
+  
+  width: 60px;
+}
+fieldset {
+  margin-bottom: 10px;
+}
+.button {
+  background-color: lightgrey;
+  width: 80px;
+  
+}
+.button p {
+  
+  margin: 5px;
+}
+.otvet {
+  width: 160px;
+  height: 120px;
+  margin-left: 10%;
+  margin-top: 10%;
+  background-color: lightgrey;
+  display: none;
+}
+.ok {
+  width: 50px;
+  height: 20px;
+  margin-left: 100px;
+  margin-top: 60px;
+  background-color: grey;  
+}
